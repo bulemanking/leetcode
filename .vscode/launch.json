@@ -6,11 +6,12 @@
   "configurations": [
 
 
+
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\02add.js"
+      "program": "${workspaceFolder}\\06only_one_time.js"
     }
   ]
 }
