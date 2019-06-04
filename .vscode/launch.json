@@ -7,11 +7,12 @@
 
 
 
+
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\06only_one_time.js"
+      "program": "${workspaceFolder}\\08removeElement.js"
     }
   ]
 }
